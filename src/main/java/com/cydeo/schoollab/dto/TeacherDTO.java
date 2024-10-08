@@ -1,5 +1,6 @@
 package com.cydeo.schoollab.dto;
 
+import com.cydeo.schoollab.enums.EducationLevel;
 import com.cydeo.schoollab.enums.Status;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonInclude;
